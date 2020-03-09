@@ -197,6 +197,13 @@ public class AcousticDrum extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    /**
+     * 
+     * @param path
+     * @param button
+     * @param size_width
+     * @param size_height 
+     */
     void setImage(String path, JButton button, int size_width, int size_height){
         
         //sets the image icon of the button (resizes the image to fit the button)
@@ -209,6 +216,10 @@ public class AcousticDrum extends javax.swing.JFrame {
         
     }
     
+    /**
+     * 
+     * @param soundPath 
+     */
     void pressButton(String soundPath){
         
         //plays the sound file
@@ -222,6 +233,7 @@ public class AcousticDrum extends javax.swing.JFrame {
         catch (Exception ex){
                 System.out.println("Error occured: drum button could not be played. " + ex);
             }
+        
     }
     
     private void jKickActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jKickActionPerformed

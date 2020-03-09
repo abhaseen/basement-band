@@ -284,6 +284,11 @@ public class VirtualPiano extends javax.swing.JFrame {
         setBounds(0, 0, 755, 498);
     }// </editor-fold>//GEN-END:initComponents
 
+    /**
+     * 
+     * @param pianoPath
+     * @param steelDrumPath 
+     */
     void pressKey(String pianoPath, String steelDrumPath){
         
         //The set of sounds used will differ based on what preset is selected

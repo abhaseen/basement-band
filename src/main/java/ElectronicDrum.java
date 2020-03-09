@@ -263,6 +263,10 @@ public class ElectronicDrum extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    /**
+     * 
+     * @param drumPath 
+     */
     void pressPad(String drumPath){
         
         //plays sound files
