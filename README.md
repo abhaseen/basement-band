@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-A version of NetBeans. Recommended 11.2 or greater.
+A version of NetBeans. Recommended 11.2 or higher.
 
 Make sure to use latest version of UTF encoding to get the proper emojis for the Main Menu view, Return Home and Change Kit buttons.
 
