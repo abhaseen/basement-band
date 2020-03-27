@@ -71,13 +71,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-Version 1.1 - Stable Release, added JavaDocs
+Version 2.0.0 - Stable Release, added Recording Module
 
 ## Authors
 
 * **Andre Bhaseen** - *Initial work* - [abhaseen](https://github.com/abhaseen)
 
-* [Royce Ayroso-Ong](https://github.com/rjayroso-ong) who participated in this project.
+* [Royce Ayroso-Ong](https://github.com/rjayroso-ong) who participated in this project. - *Responsible for developing Recording Module*
 
 ## License
 
