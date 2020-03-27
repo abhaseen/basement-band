@@ -34,6 +34,10 @@ Now from the Drum Kit Selection Menu, if we choose the Electronic Drum Kit, it w
 
 This view is made to emulate the electronic drum kits/pads that you often see DJ's or electronic producers use.
 
+![Voice Recorder](https://abhaseen.github.io/basement-band/VoiceRecorder.PNG)
+
+This view allows you to record and playback a microphone recording.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See build executable for notes on how to build the application locally.
@@ -52,6 +56,8 @@ When adding a new view, make sure to say NEW -> JPanel Form
 or NEW -> JFrame Form, depending on your preference.
 
 When the project is built, make sure to choose MainMenu as the main class. This will allow you to start from the main menu rather than any other view.
+
+When using the Voice Recording module, make sure to create a file called Recording_Files in the source folder in order to begin recording.
 
 ## Build Executable
 
