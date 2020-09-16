@@ -52,6 +52,8 @@ A version of NetBeans. Recommended 11.2 or higher.
 
 Make sure to use latest version of UTF encoding to get the proper emojis for the Main Menu view, Return Home and Change Kit buttons.
 
+Make sure to use the latest version of Java and have it installed on your machine.
+
 ### Development Setup
 
 To first run this program, we must first open the project with NetBeans. The reason why NetBeans is recommended is because it has the strongest Swing Application editor for the visual GUI design.
